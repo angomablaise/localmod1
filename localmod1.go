@@ -7,6 +7,6 @@ import (
 func DblX(x int) int {
 
 	fmt.Printf("doubling %v", x)
-	return x * 2
+	return x * 2 * 1
 
 }
